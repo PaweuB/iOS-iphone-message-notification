@@ -3,6 +3,14 @@ body, html {
     padding: 0;
 } 
 
+.notification {
+    margin: 20px;
+    width: 300px;
+    border: 1px solid black;
+}
 .header {
     background-color: gray;
+}
+.messagebody {
+    background-color: chartreuse;
 }
